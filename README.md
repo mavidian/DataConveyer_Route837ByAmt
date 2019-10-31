@@ -2,8 +2,8 @@
 
 DataConveyer_Route837ByAmt is a console application to demonstrate routing capabilities of Data Conveyer.
 
-The input file is expected to be a complete X12 interchange envelope that contains 837 transactions, i.e.
-medical claim. Each 837 transaction is evaluated by Data Conveyer, specifically the CLM02 element ("claim
+The input file is expected to be a complete X12 interchange envelope that contains EDI 837 transactions, i.e.
+medical claims. Each transaction is evaluated by Data Conveyer, specifically the CLM02 element ("claim
 monetary amount") is examined and depending on whether it is below $1,000 or not, the transaction gets
 routed to one of the 2 output files (_low or _high). Each of the 2 output file contains a complete, 
 properly populated X12 interchange envelope.
