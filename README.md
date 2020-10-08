@@ -43,5 +43,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Copyright
 
 ```
-Copyright © 2019 Mavidian Technologies Limited Liability Company. All Rights Reserved.
+Copyright © 2019-2020 Mavidian Technologies Limited Liability Company. All Rights Reserved.
 ```
